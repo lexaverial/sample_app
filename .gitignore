@@ -26,3 +26,4 @@ doc/
 .secret
 desktop.ini
 thumbs.db
+secrets.yml
