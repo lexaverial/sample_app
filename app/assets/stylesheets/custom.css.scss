@@ -190,7 +190,7 @@ input {
 
 /* microposts */
 
-.micropost {
+.microposts {
   list-style: none;
   margin: 10px 0 0 0;
   li {
@@ -216,5 +216,10 @@ aside {
   textarea {
     height: 100px;
     margin-bottom: 5px;
+  }
+  .char_count {
+    display: block;
+    float: right;
+    color: $grayLight;
   }
 }
